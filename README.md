@@ -1,4 +1,4 @@
-# E-commerce Project
+# Meme Generator Project
 
 Meme generator App is build using React.js, React Router Dom.
 ## Live website
